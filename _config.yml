@@ -23,8 +23,8 @@ avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
 favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus 设置
-disqus:
-  shortname: niane-zh
+#disqus:
+#  shortname: niane-zh
 
 # google analytics 设置
 #ga:
